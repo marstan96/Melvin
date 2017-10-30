@@ -18,6 +18,7 @@ public class Sample {
         System.out.println("Main");
         System.out.println("Second");
         System.out.println("Third");
+        System.out.println("second branch");
     }
     
 }
